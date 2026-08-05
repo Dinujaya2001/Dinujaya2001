@@ -1,174 +1,139 @@
 <div align="center">
 
 ```text
-██████╗ ██╗███╗   ██╗██╗   ██╗     ██╗ █████╗ ██╗   ██╗ █████╗
- ██╔══██╗██║████╗  ██║██║   ██║     ██║██╔══██╗╚██╗ ██╔╝██╔══██╗
- ██║  ██║██║██╔██╗ ██║██║   ██║     ██║███████║ ╚████╔╝ ███████║
- ██║  ██║██║██║╚██╗██║██║   ██║██   ██║██╔══██║  ╚██╔╝  ██╔══██║
- ██████╔╝██║██║ ╚████║╚██████╔╝╚█████╔╝██║  ██║   ██║   ██║  ██║
- ╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+██████╗  ██╗ ███╗   ██╗ ██╗   ██╗      ██╗  █████╗  ██╗   ██╗  █████╗
+ ██╔══██╗ ██║ ████╗  ██║ ██║   ██║      ██║ ██╔══██╗ ╚██╗ ██╔╝ ██╔══██╗
+ ██║  ██║ ██║ ██╔██╗ ██║ ██║   ██║      ██║ ███████║  ╚████╔╝  ███████║
+ ██║  ██║ ██║ ██║╚██╗██║ ██║   ██║ ██   ██║ ██╔══██║   ╚██╔╝   ██╔══██║
+ ██████╔╝ ██║ ██║ ╚████║ ╚██████╔╝ ╚█████╔╝ ██║  ██║    ██║    ██║  ██║
+ ╚═════╝  ╚═╝ ╚═╝  ╚═══╝  ╚═════╝   ╚════╝  ╚═╝  ╚═╝    ╚═╝    ╚═╝  ╚═╝
 
-████████╗██╗  ██╗ █████╗ ██████╗  █████╗ ██╗  ██╗ █████╗
- ╚══██╔══╝██║  ██║██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗
-    ██║   ███████║███████║██████╔╝███████║█████╔╝ ███████║
-    ██║   ██╔══██║██╔══██║██╔══██╗██╔══██║██╔═██╗ ██╔══██║
-    ██║   ██║  ██║██║  ██║██║  ██║██║  ██║██║  ██╗██║  ██║
-    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+████████╗ ██╗  ██╗  █████╗  ██████╗   █████╗  ██╗  ██╗  █████╗
+ ╚══██╔══╝ ██║  ██║ ██╔══██╗ ██╔══██╗ ██╔══██╗ ██║ ██╔╝ ██╔══██╗
+    ██║    ███████║ ███████║ ██████╔╝ ███████║ █████╔╝  ███████║
+    ██║    ██╔══██║ ██╔══██║ ██╔══██╗ ██╔══██║ ██╔═██╗  ██╔══██║
+    ██║    ██║  ██║ ██║  ██║ ██║  ██║ ██║  ██║ ██║  ██╗ ██║  ██║
+    ╚═╝    ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝
 ```
+**`Full-Stack Developer · Code Commander`**
 
-# 👋 Hi, I'm **Dinujaya Tharaka**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF00&center=true&vCenter=true&width=520&lines=Building+full-stack+systems+from+Sri+Lanka;Java+%7C+Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Angular+%7C+Spring+Boot+%7C+Django;Cloud%2C+Docker%2C+CI%2FCD+--+ship+it.)](https://git.io/typing-svg)
 
-### 💻 Full-Stack Software Engineer | Java Developer | Problem Solver
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Full-Stack+Software+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+JavaScript;Always+Learning+New+Technologies;Building+Modern+Applications)](https://git.io/typing-svg)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-[![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff00)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharada-marasinghe/)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/sharadamarasin2)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15007148)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/sharada.marasinha)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sharadamarasinha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharadamarasinha@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=sharada-marasinghe&style=for-the-badge&color=00ff00&label=VISITORS)](https://github.com/sharada-marasinghe)
 
 </div>
 
 ---
 
-# 💻 About Me
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18"/> &nbsp; **About Me**
 
 ```bash
-> whoami
+$ whoami
+> dinujaya-tharaka
 
-Dinujaya Tharaka
-
-> profile.json
-
+$ cat profile.json
 {
-  "Country"      : "Sri Lanka 🇱🇰",
-  "Role"         : "Software Engineer",
-  "Speciality"   : "Full Stack Development",
-  "Backend"      : "Java, Spring Boot",
-  "Frontend"     : "HTML, CSS, JavaScript, React",
-  "Database"     : "MySQL, MongoDB",
-  "Learning"     : "Cloud & Microservices",
-  "Goal"         : "Become a World Class Software Engineer",
-  "Hobby"        : "Coding & Building Creative Projects"
+  "location"    : "Sri Lanka",
+  "role"        : "Full-Stack Developer",
+  "mission"     : "Build scalable systems. Ship fast. Break nothing.",
+  "interests"   : ["distributed systems", "open source", "cloud-native"],
+  "currently"   : "Architecting things that should not break at 3 AM",
+  "fun_fact"    : "I debug in my sleep (literally)"
 }
 ```
 
 ---
 
-# 🚀 Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"/> &nbsp; **Tech Arsenal**
 
-### Languages
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+**Frontend**
 
-### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)
+**Backend**
 
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+**Databases**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+**DevOps & Cloud**
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
----
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
----
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-%23673de6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ---
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
-
----
-
-# 📊 GitHub Stats
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> &nbsp; **GitHub Stats**
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinujaya2001&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinujaya2001&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" height="170"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharada-marasinghe&theme=dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=888888" width="500"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinujaya2001&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
 
+---
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> &nbsp; **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dinujaya2001&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║   "Code. Learn. Build. Repeat. Never Stop Growing." ║
-╚══════════════════════════════════════════════════════╝
+```
+╔═══════════════════════════════════╗
+║   "First, solve the problem.      ║
+║    Then, write the code."         ║
+╚═══════════════════════════════════╝
 ```
 
-### ⭐ Thanks for visiting my profile!
+**( : ㋡ : )**
 
-**Happy Coding 🚀**
+*Building digital galaxies — one commit at a time.*
+
+</div>
+
+
 
 </div>
