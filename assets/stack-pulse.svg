@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="Full-stack engineering workflow from UI to API, OOP domain logic, and database">
+  <defs>
+    <linearGradient id="pipeLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.25" />
+      <stop offset="50%" stop-color="#34D399" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.25" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="110" rx="12" fill="#161B22" stroke="#30363D" />
+  <line x1="150" y1="55" x2="1050" y2="55" stroke="url(#pipeLine)" stroke-width="2" stroke-dasharray="6 6" />
+
+  <circle cx="150" cy="55" r="6" fill="#34D399">
+    <animate attributeName="cx" values="150;450;750;1050" dur="5s" repeatCount="indefinite" />
+  </circle>
+
+  <g transform="translate(80, 31)">
+    <rect width="170" height="48" rx="8" fill="#0D1117" stroke="#30363D" />
+    <text x="85" y="29" text-anchor="middle" fill="#F0F6FC" font-family="ui-monospace, monospace" font-size="13" font-weight="600">01. React / UI</text>
+  </g>
+  <g transform="translate(380, 31)">
+    <rect width="190" height="48" rx="8" fill="#0D1117" stroke="#30363D" />
+    <text x="95" y="29" text-anchor="middle" fill="#F0F6FC" font-family="ui-monospace, monospace" font-size="13" font-weight="600">02. REST / Auth API</text>
+  </g>
+  <g transform="translate(690, 31)">
+    <rect width="210" height="48" rx="8" fill="#0D1117" stroke="#10B981" stroke-opacity="0.6" />
+    <text x="105" y="29" text-anchor="middle" fill="#A7F3D0" font-family="ui-monospace, monospace" font-size="13" font-weight="600">03. Java OOP &amp; Tests</text>
+  </g>
+  <g transform="translate(995, 31)">
+    <rect width="150" height="48" rx="8" fill="#0D1117" stroke="#30363D" />
+    <text x="75" y="29" text-anchor="middle" fill="#F0F6FC" font-family="ui-monospace, monospace" font-size="13" font-weight="600">04. SQL &amp; CI/CD</text>
+  </g>
+</svg>
