@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Architecture overview of featured Java OOP and Full-Stack projects">
+  <rect width="1200" height="630" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2" />
+  <rect x="40" y="40" width="1120" height="550" rx="14" fill="#161B22" stroke="#21262D" />
+
+  <text x="80" y="102" fill="#34D399" font-family="ui-monospace, monospace" font-size="15" font-weight="700">SYSTEM ARCHITECTURE SNAPSHOT · @DINUJAYA2001</text>
+  <text x="80" y="148" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="34" font-weight="700">Modular OOP Domain + Full-Stack Delivery</text>
+
+  <rect x="80" y="185" width="320" height="355" rx="12" fill="#0D1117" stroke="#30363D" />
+  <text x="104" y="228" fill="#34D399" font-family="ui-monospace, monospace" font-size="14" font-weight="700">DOMAIN &amp; OOP LAYER</text>
+  <text x="104" y="264" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Java &amp; Design Patterns</text>
+  <text x="104" y="302" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• Encapsulation &amp; Interfaces</text>
+  <text x="104" y="334" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• Factory &amp; Strategy Patterns</text>
+  <text x="104" y="366" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• JUnit 5 Unit Test Coverage</text>
+  <text x="104" y="398" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• Custom Domain Exceptions</text>
+
+  <rect x="440" y="185" width="320" height="355" rx="12" fill="#0D1117" stroke="#10B981" stroke-opacity="0.55" />
+  <text x="464" y="228" fill="#38BDF8" font-family="ui-monospace, monospace" font-size="14" font-weight="700">API &amp; PERSISTENCE</text>
+  <text x="464" y="264" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Spring / Node Backends</text>
+  <text x="464" y="302" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• RESTful JSON Endpoints</text>
+  <text x="464" y="334" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• Input Validation &amp; DTOs</text>
+  <text x="464" y="366" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• PostgreSQL / MySQL / MongoDB</text>
+  <text x="464" y="398" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• Transaction &amp; Error Handling</text>
+
+  <rect x="800" y="185" width="320" height="355" rx="12" fill="#0D1117" stroke="#30363D" />
+  <text x="824" y="228" fill="#34D399" font-family="ui-monospace, monospace" font-size="14" font-weight="700">CLIENT &amp; AUTOMATION</text>
+  <text x="824" y="264" fill="#F0F6FC" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Web, Mobile &amp; CI/CD</text>
+  <text x="824" y="302" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• React, TypeScript &amp; Tailwind</text>
+  <text x="824" y="334" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• Responsive &amp; Accessible UI</text>
+  <text x="824" y="366" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• Feature Branches &amp; Pull Requests</text>
+  <text x="824" y="398" fill="#9BA3AF" font-family="system-ui, sans-serif" font-size="16">• GitHub Actions Automated Checks</text>
+</svg>
