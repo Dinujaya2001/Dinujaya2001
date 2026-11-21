@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Dinujaya Tharaka — Java OOP and Full-Stack Developer Banner">
+  <defs>
+    <linearGradient id="heroBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="55%" stop-color="#0B2922" />
+      <stop offset="100%" stop-color="#064E3B" />
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+    <pattern id="subGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#34D399" stroke-opacity="0.07" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" rx="16" fill="url(#heroBg)" stroke="#30363D" stroke-width="1.5" />
+  <rect width="1200" height="260" rx="16" fill="url(#subGrid)" />
+
+  <rect x="64" y="34" width="140" height="4" rx="2" fill="url(#accentBar)">
+    <animate attributeName="width" values="110;220;110" dur="6s" repeatCount="indefinite" />
+  </rect>
+
+  <rect x="64" y="48" width="330" height="28" rx="14" fill="#161B22" stroke="#10B981" stroke-opacity="0.5" />
+  <circle cx="84" cy="62" r="5" fill="#10B981">
+    <animate attributeName="opacity" values="1;0.35;1" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <text x="98" y="67" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="1">
+    JAVA OOP · SPRING BOOT · FULL-STACK
+  </text>
+
+  <text x="64" y="132" fill="#F0F6FC" font-family="system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="54" font-weight="800" letter-spacing="-0.5">
+    Dinujaya Tharaka
+  </text>
+
+  <text x="64" y="174" fill="#D1FAE5" font-family="system-ui, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="21" font-weight="500">
+    Software Engineering Undergraduate building clean, modular web, mobile &amp; backend systems
+  </text>
+
+  <text x="64" y="216" fill="#9BA3AF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    Handle: @Dinujaya2001  ·  Base: Sri Lanka  ·  Focus: OOP Design Patterns, REST APIs, React &amp; SQL/NoSQL
+  </text>
+</svg>
